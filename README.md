@@ -1,4 +1,4 @@
-# malaria_cell_classification
+# Diagnosis_of_Malaria
 
 In this amazing project that we did under the guidance of prof. Haitham Amar (ECE prof, in UOW), our main goal was to create an DL/ML algorithm which can detect malaria with the least False-Positives while classification. 
 
